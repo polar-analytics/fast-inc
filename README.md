@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Thank you for taking the time to do this technical test. We tried to make it both fun and interesting, so we hope you'll like it. It has 2 different task blocks: one consisting of Backend work, and one consisting of Frontend work. Depending on what position you are applying to, you might do not need to do both. If you decide to do only the front end block, you can simply mock the values that should be coming from the API.
+Thank you for taking the time to do this technical test. We tried to make it both fun and interesting, so we hope you'll like it. It has 2 different task blocks: one consisting of Backend work, and one consisting of Frontend work. Depending on what position you are applying to, you might not need to do both. If you decide to do only the front end block, you can simply mock the values that should be coming from the API.
 
 It is ok if you cannot do all the tasks, but the code you decide to send us should be production ready.
 
@@ -27,7 +27,7 @@ As the new software engineer, you'll be in charge of building an API and a User 
 
 # Travel API
 
-On start up, your API should load a JSON file contaning the mapping of all the different Space Doors available in the Universe. Each Space Door can be connected to 0 or many Space Door, for a given cost in Camembert. You can find an exemple of this JSON file in this repo: `space-time-continuum.json`. Feel free to edit it if you feel like doing so.
+On start up, your API should load a JSON file containing the mapping of all the different Space Doors available in the Universe. Each Space Door can be connected to 0 or many Space Doors, for a given cost in Camembert. You can find an exemple of this JSON file in this repo: `space-time-continuum.json`. Feel free to edit it if you feel like doing so. In real situation, it would probably contain a lot more Space Doors...
 
 You are free to organize and build your API the way you want, but it should be able to do the following operations via HTTP endpoints:
 
@@ -48,4 +48,4 @@ You are free to organize and build your User Interface in any way you want, but 
 - visualize a path between 2 Space Doors,
 - move to another Space Door (if possible).
 
-Note: we are not applying to a design position, so it's ok if the UX is not beautiful. It should be practial, tho.
+Note: we are not applying to a designer position, so it's ok if the UX is not beautiful. However, it should be practial.
