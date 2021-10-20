@@ -8,6 +8,8 @@ It is ok if you cannot do all the tasks, but the code you decide to send us shou
 
 At Polar, we work with React, NodeJs, and TypeScript. But for this test, feel free to use the tech you are the most confortable with; you will be judged on result and code quality, not on the tech stack.
 
+Please try to not use third-party npm packages unless really necessary. We prefer an ugly UX than a copy-paste from Material UI.
+
 Please, push your work to a **private** git repo, and share it with us:
 
 - scalpweb@gmail.com
